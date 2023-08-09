@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+}
+.wrapper{
+    width:720px;
+    margin:0 auto;
+}
+table{width: 100%;}
+
+th, td {
+    border: 1px solid #ccc;
+}
+h1{
+text-align: center;
+
+}
